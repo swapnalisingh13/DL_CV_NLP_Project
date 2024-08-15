@@ -3,3 +3,4 @@
 Dataset: Flikr
 Source: Hugging Face
 Model: CNN-LSTM
+Project Title: ImageGo
